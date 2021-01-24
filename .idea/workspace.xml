@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第一周作业提交">
-      <change afterPath="$PROJECT_DIR$/Week_02/JVM 不同GC的性能对比.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_02/JVM不同GC和内存模型 (1).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_02/对不同GC分配不同的内存，进行压测.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第二周作业提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week_02" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,6 +53,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_02" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\Desktop\作业仓库\Week_02" />
     </key>
@@ -74,6 +72,7 @@
       <updated>1610436556371</updated>
       <workItem from="1610436557821" duration="3644000" />
       <workItem from="1611314876954" duration="1467000" />
+      <workItem from="1611381314161" duration="551000" />
     </task>
     <task id="LOCAL-00001" summary="第一周作业提交">
       <created>1610436627747</created>
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610441387687</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第二周作业提交">
+      <created>1611381373832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611381373832</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一周作业提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一周作业提交" />
+    <MESSAGE value="第二周作业提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二周作业提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1610440353115">
@@ -127,10 +134,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610440354247" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1610441396810">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611381418448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610441396810" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611381418448" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610440949537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
