@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第二周作业提交" />
+    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第一周作业任务三修复" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,10 +53,11 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_01\untitled" />
       <recent name="C:\Users\DELL\Desktop\作业仓库\Week_02" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\Desktop\作业仓库\Week_02" />
     </key>
   </component>
@@ -73,6 +74,7 @@
       <workItem from="1610436557821" duration="3644000" />
       <workItem from="1611314876954" duration="1467000" />
       <workItem from="1611381314161" duration="551000" />
+      <workItem from="1611485652986" duration="136000" />
     </task>
     <task id="LOCAL-00001" summary="第一周作业提交">
       <created>1610436627747</created>
@@ -102,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611381373832</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一周作业任务三修复">
+      <created>1611485772475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611485772475</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +132,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一周作业提交" />
     <MESSAGE value="第二周作业提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二周作业提交" />
+    <MESSAGE value="第一周作业任务三修复" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一周作业任务三修复" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1610440353115">
@@ -134,11 +144,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610440354247" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611381418448">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611485778849">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610441396810" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611381418448" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611485778849" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610440949537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
