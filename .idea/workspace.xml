@@ -10,8 +10,29 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第一周作业任务三修复">
+    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第三周作业">
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/CountDownLatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/CountDownLatch/Threadz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/ReadWriteLock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/ReadWriteLock/Threadz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/Wait_notify/Notify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/Wait_notify/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lock1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lock1/Threadz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lock2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lock2/Threadz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lockSupport/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lockSupport/Threadz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/semaphore/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/semaphore/Threadz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/sync/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/sync/Threadz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/volitale/Flag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/volitale/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/volitale/Threadz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学号.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week_02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week_04/Wednesday" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,12 +76,14 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_02" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\Desktop\作业仓库\Week_01" />
       <recent name="C:\Users\DELL\Desktop\作业仓库\Week_01\untitled" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_04\Wednesday" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_03" />
       <recent name="C:\Users\DELL\Desktop\作业仓库\Week_02" />
     </key>
   </component>
@@ -81,6 +104,11 @@
       <workItem from="1611485844389" duration="89000" />
       <workItem from="1611749863706" duration="9000" />
       <workItem from="1612010888011" duration="21000" />
+      <workItem from="1612020429104" duration="497000" />
+      <workItem from="1612334837156" duration="3534000" />
+      <workItem from="1612614541713" duration="607000" />
+      <workItem from="1612620461083" duration="3695000" />
+      <workItem from="1612672003642" duration="1940000" />
     </task>
     <task id="LOCAL-00001" summary="第一周作业提交">
       <created>1610436627747</created>
@@ -124,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611485915695</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第三周作业">
+      <created>1612020473758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612020473758</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,22 +181,32 @@
     <MESSAGE value="第一周作业提交" />
     <MESSAGE value="第二周作业提交" />
     <MESSAGE value="第一周作业任务三修复" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一周作业任务三修复" />
+    <MESSAGE value="第三周作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三周作业" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1610440353115">
+    <state x="506" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612614995737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612614995737" />
+    <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1612335101365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="102" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610440353115" />
+    <state x="549" y="102" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612335101365" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1610440354247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610440354247" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1611485923739">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612020484373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610441396810" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611485923739" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612020484373" />
+    <state x="-15" y="23" key="new project wizard" timestamp="1612615147398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-15" y="23" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1612615147398" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610440949537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
