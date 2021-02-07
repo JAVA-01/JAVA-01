@@ -10,29 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第三周作业">
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/CountDownLatch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/CountDownLatch/Threadz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/ReadWriteLock/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/ReadWriteLock/Threadz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/Wait_notify/Notify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/Wait_notify/Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lock1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lock1/Threadz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lock2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lock2/Threadz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lockSupport/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/lockSupport/Threadz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/semaphore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/semaphore/Threadz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/sync/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/sync/Threadz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/volitale/Flag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/volitale/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/Wednesday/volitale/Threadz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学号.md" afterDir="false" />
+    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第四周作业">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +87,7 @@
       <workItem from="1612334837156" duration="3534000" />
       <workItem from="1612614541713" duration="607000" />
       <workItem from="1612620461083" duration="3695000" />
-      <workItem from="1612672003642" duration="1940000" />
+      <workItem from="1612672003642" duration="2948000" />
     </task>
     <task id="LOCAL-00001" summary="第一周作业提交">
       <created>1610436627747</created>
@@ -159,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612020473758</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第四周作业">
+      <created>1612676401727</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612676401727</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +168,8 @@
     <MESSAGE value="第二周作业提交" />
     <MESSAGE value="第一周作业任务三修复" />
     <MESSAGE value="第三周作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三周作业" />
+    <MESSAGE value="第四周作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四周作业" />
   </component>
   <component name="WindowStateProjectService">
     <state x="506" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612614995737">
