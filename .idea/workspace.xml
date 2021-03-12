@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a65fbc68-ea62-412a-910e-591e52a05839" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Week_06/sql/table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Week_06/sql/table.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="I:/soft/apache-maven-3.2.5" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mgVb5sJgbyFQH2oEgyZtPANNli" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-learn" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a65fbc68-ea62-412a-910e-591e52a05839" name="Default Changelist" comment="" />
+      <created>1609915288466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609915288466</updated>
+      <workItem from="1609915291125" duration="1015000" />
+      <workItem from="1610717668166" duration="1703000" />
+      <workItem from="1615448606919" duration="6056000" />
+    </task>
+    <task id="LOCAL-00001" summary="week01-类加载器">
+      <created>1615449529338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615449529338</updated>
+    </task>
+    <task id="LOCAL-00002" summary="week06-DDl">
+      <created>1615454773370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615454773370</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="week01-类加载器" />
+    <MESSAGE value="week06-DDl" />
+    <option name="LAST_COMMIT_MESSAGE" value="week06-DDl" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615525234700">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="596" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/88.0.1832.1080@88.0.1832.1080" timestamp="1615525234700" />
+    <state x="487" y="67" key="CommitChangelistDialog2" timestamp="1615454772453">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="487" y="67" key="CommitChangelistDialog2/88.0.1832.1080@88.0.1832.1080" timestamp="1615454772453" />
+    <state x="263" y="95" key="DiffContextDialog" timestamp="1615449500371">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="263" y="95" key="DiffContextDialog/88.0.1832.1080@88.0.1832.1080" timestamp="1615449500371" />
+    <state x="734" y="239" key="FileChooserDialogImpl" timestamp="1615514374588">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="734" y="239" key="FileChooserDialogImpl/88.0.1832.1080@88.0.1832.1080" timestamp="1615514374588" />
+    <state x="263" y="95" key="MergeDialog" timestamp="1615451118798">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="263" y="95" key="MergeDialog/88.0.1832.1080@88.0.1832.1080" timestamp="1615451118798" />
+    <state x="638" y="188" key="MultipleFileMergeDialog" timestamp="1615451118806">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="638" y="188" key="MultipleFileMergeDialog/88.0.1832.1080@88.0.1832.1080" timestamp="1615451118806" />
+    <state x="496" y="194" key="Vcs.Push.Dialog.v2" timestamp="1615525421932">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="496" y="194" key="Vcs.Push.Dialog.v2/88.0.1832.1080@88.0.1832.1080" timestamp="1615525421932" />
+    <state x="660" y="288" key="git4idea.merge.GitPullDialog" timestamp="1615451102826">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="660" y="288" key="git4idea.merge.GitPullDialog/88.0.1832.1080@88.0.1832.1080" timestamp="1615451102826" />
+  </component>
+</project>
