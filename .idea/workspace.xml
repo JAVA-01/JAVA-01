@@ -10,22 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第六周作业必做作业的暂时提交">
-      <change afterPath="$PROJECT_DIR$/Week_05/JDBCDB/DbDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_05/JDBCDB/JdbcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_05/JDBCDB/NativeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_05/JDBCDB/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_05/spring/aop/AOP 两种动态代理实现.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_05/spring/aop/Cglib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_05/spring/aop/JdkProxyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_05/spring/aop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_05/spring/aop/Someone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_05/spring/aop/SomeoneImp.java" afterDir="false" />
+    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="第五周作业 之前bean注入时，遗漏的xml文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_05/spring/aop/Aop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_05/spring/aop/Aop2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_05/spring/aop/annotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_07/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_06/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_06/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +102,7 @@
       <workItem from="1615188688023" duration="8000" />
       <workItem from="1615189954021" duration="21000" />
       <workItem from="1615558294678" duration="64000" />
-      <workItem from="1615858388028" duration="1091000" />
+      <workItem from="1615858388028" duration="4182000" />
     </task>
     <task id="LOCAL-00001" summary="第一周作业提交">
       <created>1610436627747</created>
@@ -201,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614432150661</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="第五周作业 未实现自动配置和stater">
+      <created>1615859530424</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615859530424</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第五周作业 之前bean注入时，遗漏的xml文件">
+      <created>1615859587523</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615859587523</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,9 +226,11 @@
     <MESSAGE value="第一周作业任务三修复" />
     <MESSAGE value="第三周作业" />
     <MESSAGE value="第四周作业" />
-    <MESSAGE value="第五周作业" />
     <MESSAGE value="第六周作业必做作业的暂时提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第六周作业必做作业的暂时提交" />
+    <MESSAGE value="第五周作业" />
+    <MESSAGE value="第五周作业 未实现自动配置和stater" />
+    <MESSAGE value="第五周作业 之前bean注入时，遗漏的xml文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="第五周作业 之前bean注入时，遗漏的xml文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="633" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615858796942">
@@ -244,11 +247,12 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610440354247" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1614432158404">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2" timestamp="1615859606602">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1610441396810" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614432158404" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615859606602" />
     <state x="-15" y="23" key="new project wizard" timestamp="1612615147398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

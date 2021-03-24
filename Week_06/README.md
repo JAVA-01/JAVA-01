@@ -6,11 +6,12 @@
 ###2月22日课程：
 1. （选做）基于课程中的设计原则和最佳实践，分析是否可以将自己负责的业务系统进行数据库设计或是数据库服务器方面的优化
 2. （必做）基于电商交易场景（用户、商品、订单），设计一套简单的表结构，提交DDL的SQL文件到Github（后面2周的作业依然要是用到这个表结构）。
-CREATE  DATABASE shop;
-CREATE TABLE users (id INT PRIMARY KEY, username VARCHAR(20), PASSWORD VARCHAR(20), iphoneCall VARCHAR(20)) ;
-CREATE TABLE goods (id INT PRIMARY KEY, price VARCHAR(20), TIME VARCHAR(20)) ;
-CREATE TABLE orders(id INT PRIMARY KEY, price VARCHAR(20), TIME VARCHAR(20),goodsid INT);
-CREATE TABLE goodsid (id1 INT,id2 INT, id3 INT );
+   1. CREATE  DATABASE shop;
+   2. CREATE TABLE users (id INT PRIMARY KEY, username VARCHAR(20), PASSWORD VARCHAR(20), iphoneCall VARCHAR(20)) ;
+   3. CREATE TABLE goods (id INT PRIMARY KEY, price VARCHAR(20), TIME VARCHAR(20)) ;
+   4. CREATE TABLE orders(id INT PRIMARY KEY, price VARCHAR(20), TIME VARCHAR(20),goodsid INT);
+   5. CREATE TABLE goodsid (id1 INT,id2 INT, id3 INT );
+   
 3. （选做）尽可能多的从“常见关系数据库”中列的清单，安装运行，并使用上一题的SQL测试简单的增删改查。
 4. （选做）基于上一题，尝试对各个数据库测试100万订单数据的增删改查性能。
 5. （选做）尝试对MySQL不同引擎下测试100万订单数据的增删改查性能。
