@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rpcfx.iml" filepath="$PROJECT_DIR$/rpcfx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpcfx-core/rpcfx-core.iml" filepath="$PROJECT_DIR$/rpcfx-core/rpcfx-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpcfx-demo-api/rpcfx-demo-api.iml" filepath="$PROJECT_DIR$/rpcfx-demo-api/rpcfx-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpcfx-demo-consumer/rpcfx-demo-consumer.iml" filepath="$PROJECT_DIR$/rpcfx-demo-consumer/rpcfx-demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpcfx-demo-provider/rpcfx-demo-provider.iml" filepath="$PROJECT_DIR$/rpcfx-demo-provider/rpcfx-demo-provider.iml" />
+    </modules>
+  </component>
+</project>

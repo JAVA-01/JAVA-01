@@ -1,0 +1,141 @@
+spring:
+  profiles:
+    active: test
+---
+spring:
+  profiles: dev
+  datasource:
+      url: jdbc:mysql://localhost:3306/moods?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+#    &AllowPublicKeyRetrieval=True
+      username: root
+      password: 123456
+      driver-class-name: com.mysql.cj.jdbc.Driver
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+
+#      redis 配置
+  redis:
+    host: 47.98.192.167
+    port: 6379
+# kafka
+  kafka:
+    # kafka服务器地址(可以多个)
+    bootstrap-servers: 47.98.192.167:9092,47.98.192.167:9092,47.98.192.167:9092
+    consumer:
+      # 指定一个默认的组名
+      group-id: kafka2
+      # earliest:当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，从头开始消费
+      # latest:当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，消费新产生的该分区下的数据
+      # none:topic各分区都存在已提交的offset时，从offset后开始消费；只要有一个分区不存在已提交的offset，则抛出异常
+      auto-offset-reset: earliest
+      # key/value的反序列化
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+    producer:
+      # key/value的序列化
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      # 批量抓取
+      batch-size: 65536
+      # 缓存容量
+      buffer-memory: 524288
+      # 服务器地址
+      bootstrap-servers: 47.98.192.167:9092,47.98.192.167:9092,47.98.192.167:9092
+server:
+  port: 8800
+---
+spring:
+  profiles: prod
+  datasource:
+        url: jdbc:mysql://47.98.192.167:3306/moods?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    #    &AllowPublicKeyRetrieval=True
+        username: root
+        password: root
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        type: com.zaxxer.hikari.HikariDataSource
+
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+  redis:
+    host: 47.98.192.167
+    port: 6379
+  # kafka
+  kafka:
+    # kafka服务器地址(可以多个)
+    bootstrap-servers: 47.98.192.167:9092,47.98.192.167:9092,47.98.192.167:9092
+    consumer:
+      # 指定一个默认的组名
+      group-id: kafka2
+      # earliest:当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，从头开始消费
+      # latest:当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，消费新产生的该分区下的数据
+      # none:topic各分区都存在已提交的offset时，从offset后开始消费；只要有一个分区不存在已提交的offset，则抛出异常
+      auto-offset-reset: earliest
+      # key/value的反序列化
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+    producer:
+      # key/value的序列化
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      # 批量抓取
+      batch-size: 65536
+      # 缓存容量
+      buffer-memory: 524288
+      # 服务器地址
+      bootstrap-servers: 47.98.192.167:9092,47.98.192.167:9092,47.98.192.167:9092
+server:
+  port: 8800
+---
+spring:
+  profiles: test
+  datasource:
+    url: jdbc:mysql://localhost:3306/bank1?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    #    &AllowPublicKeyRetrieval=True
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+
+  #      redis 配置
+  redis:
+    host: 47.98.192.167
+    port: 6379
+  # kafka
+  kafka:
+    # kafka服务器地址(可以多个)
+    bootstrap-servers: 47.98.192.167:9092,47.98.192.167:9092,47.98.192.167:9092
+    consumer:
+      # 指定一个默认的组名
+      group-id: kafka2
+      # earliest:当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，从头开始消费
+      # latest:当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，消费新产生的该分区下的数据
+      # none:topic各分区都存在已提交的offset时，从offset后开始消费；只要有一个分区不存在已提交的offset，则抛出异常
+      auto-offset-reset: earliest
+      # key/value的反序列化
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+    producer:
+      # key/value的序列化
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      # 批量抓取
+      batch-size: 65536
+      # 缓存容量
+      buffer-memory: 524288
+      # 服务器地址
+      bootstrap-servers: 47.98.192.167:9092,47.98.192.167:9092,47.98.192.167:9092
+
+server:
+  port: 8800
+  # hmily
+#hmily:
+#    support:
+#      rpc:
+#        annotation: true

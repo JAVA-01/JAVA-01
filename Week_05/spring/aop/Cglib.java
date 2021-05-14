@@ -11,8 +11,6 @@ import java.lang.reflect.Method;
  * @author DELL
  */
 public class Cglib  implements MethodInterceptor  {
-
-
     /**
      * 通过增强的方式获取代理类
      * 代理类是被代理类的子类
@@ -22,19 +20,12 @@ public class Cglib  implements MethodInterceptor  {
      * 没有 被代理对象的 实例对象 故不能根据实例对象调用相应方法而是在代理类中 写了一些以cglib开头的方法调用父类的方法
          *
      * */
-
-
     public  Object createProxyObj (Class<?> clazz){
-
         Enhancer enhancer =new Enhancer();
         enhancer.setSuperclass(clazz);
         enhancer.setCallback(this);
         return  enhancer.create();
-
     }
-
-
-
 
     /**
      *param:  代理类调用时传入

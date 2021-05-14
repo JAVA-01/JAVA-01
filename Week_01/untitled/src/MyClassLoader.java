@@ -23,7 +23,6 @@ public class MyClassLoader extends ClassLoader {
             inputStream = new FileInputStream("src\\Hello.xlass");
              byteArrayOutputStream=new ByteArrayOutputStream();
             byte [] data =new byte[1024];
-            byte [] data2 =new byte[1024];
             int size;
             while ((size =inputStream.read(data))!=-1){
                 for (int i = 0; i <size ; i++) {
