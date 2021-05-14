@@ -26,7 +26,7 @@ public class RpcfxInvoker {
         Object service = resolver.resolve(serviceClass);
         //this.applicationContext.getBean(serviceClass);
         //改成泛型和反射
-        resolve(resolver,"resolve",serviceClass);
+        Object service =  resolve(resolver,"resolve",serviceClass);
 
         try {
             //反射调用
