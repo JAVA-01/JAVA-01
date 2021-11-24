@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.dubbo:dubbo:3.0.0.preview">
+    <CLASSES>
+      <root url="jar://D:/BaiduNetdiskDownload/maven/maven_repository/org/apache/dubbo/dubbo/3.0.0.preview/dubbo-3.0.0.preview.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/BaiduNetdiskDownload/maven/maven_repository/org/apache/dubbo/dubbo/3.0.0.preview/dubbo-3.0.0.preview-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/BaiduNetdiskDownload/maven/maven_repository/org/apache/dubbo/dubbo/3.0.0.preview/dubbo-3.0.0.preview-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

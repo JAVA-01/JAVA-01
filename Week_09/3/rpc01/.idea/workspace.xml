@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c77fefd9-7178-4477-ac8c-f7255b54196a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../netty_test/src/main/java/com/example/netty_test/audent/DiscardServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty_test/src/main/java/com/example/netty_test/audent/DiscardServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03concurrency/Test/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03concurrency/Test/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03concurrency/Test/src/main/java/com/example/demo/batchinsert/Insert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03concurrency/Test/src/main/java/com/example/demo/batchinsert/POJO/POJO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03concurrency/Test/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03concurrency/Test/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpcfx-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rpcfx-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/client/Rpcfx.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/client/Rpcfx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/server/RpcfxInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/server/RpcfxInvoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpcfx-demo-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rpcfx-demo-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpcfx-demo-consumer/src/main/java/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpcfx-demo-consumer/src/main/java/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpcfx-demo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rpcfx-demo-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpcfx-demo-provider/src/main/java/io/kimmking/rpcfx/demo/provider/RpcfxServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/rpcfx-demo-provider/src/main/java/io/kimmking/rpcfx/demo/provider/RpcfxServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08cache/cache/src/main/java/io/kimmking/cache/CacheConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../08cache/cache/src/main/java/io/kimmking/cache/CacheConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08cache/redis/src/main/java/io/kimmking/cache/RedisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../08cache/redis/src/main/java/io/kimmking/cache/RedisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08cache/redis/src/main/java/io/kimmking/cache/cluster/ClusterJedis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../08cache/redis/src/main/java/io/kimmking/cache/cluster/ClusterJedis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08cache/redis/src/main/java/io/kimmking/cache/sentinel/SentinelJedis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../08cache/redis/src/main/java/io/kimmking/cache/sentinel/SentinelJedis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08cache/redis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../08cache/redis/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/Apache Software Foundation/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\Apache Software Foundation\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q1RM0sT9ldxKxcKKJP5ZwcZFDc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../hmily-test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.RpcfxServerApplication">
+    <configuration name="RpcfxClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpcfx-demo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.kimmking.rpcfx.demo.consumer.RpcfxClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcfxServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpcfx-demo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.kimmking.rpcfx.demo.provider.RpcfxServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c77fefd9-7178-4477-ac8c-f7255b54196a" name="Default Changelist" comment="" />
+      <created>1616245057738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616245057738</updated>
+      <workItem from="1616245061681" duration="3611000" />
+      <workItem from="1616289555493" duration="2932000" />
+      <workItem from="1616396255709" duration="240000" />
+      <workItem from="1620907019649" duration="11855000" />
+      <workItem from="1620953515854" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="245" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1620913747817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="245" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1536.824@0.0.1536.824" timestamp="1620913747817" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1620953532118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620953532118" />
+    <state width="1493" height="269" key="GridCell.Tab.0.bottom" timestamp="1620919022080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620919022080" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616296301880" />
+    <state width="1493" height="269" key="GridCell.Tab.0.center" timestamp="1620919022080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620919022080" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616296301880" />
+    <state width="1493" height="269" key="GridCell.Tab.0.left" timestamp="1620919022079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620919022079" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616296301879" />
+    <state width="1493" height="269" key="GridCell.Tab.0.right" timestamp="1620919022080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620919022080" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616296301880" />
+    <state width="1493" height="269" key="GridCell.Tab.1.bottom" timestamp="1620919022080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620919022080" />
+    <state width="1877" height="281" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616296301880" />
+    <state width="1493" height="269" key="GridCell.Tab.1.center" timestamp="1620919022080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1620919022080" />
+    <state width="1877" height="281" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616296301880" />
+    <state width="1493" height="269" key="GridCell.Tab.1.left" timestamp="1620919022080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1620919022080" />
+    <state width="1877" height="281" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616296301880" />
+    <state width="1493" height="269" key="GridCell.Tab.1.right" timestamp="1620919022080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1620919022080" />
+    <state width="1877" height="281" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616296301880" />
+    <state x="334" y="180" key="new project wizard" timestamp="1616396495409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1616396495409" />
+  </component>
+</project>

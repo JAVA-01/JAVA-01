@@ -1,0 +1,10 @@
+
+DynamicDataSource 继承名为AbstractRoutingDataSource的抽象类，spring以此找到数据源的key
+~~~
+通知spring用key当前的数据源呢，查阅资料可知，spring提供一个接口，名为AbstractRoutingDataSource的抽象类
+ 我们只需要重写determineCurrentLookupKey方法就可以，这个方法看名字就知道，
+就是返回当前线程的数据源的key，那我们只需要从我们刚刚的数据源上下文中取出我们的key即可
+~~~
+DynamicDataSourceAspect 配合注解使用，在方法执行前 将注解内的参数写入DynamicDataSourceContextHolder，
+使用ThreadLocal来记录此线程使用的数据源的key
+

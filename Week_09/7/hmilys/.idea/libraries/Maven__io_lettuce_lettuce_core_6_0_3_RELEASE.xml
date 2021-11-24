@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.lettuce:lettuce-core:6.0.3.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/BaiduNetdiskDownload/maven/maven_repository/io/lettuce/lettuce-core/6.0.3.RELEASE/lettuce-core-6.0.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/BaiduNetdiskDownload/maven/maven_repository/io/lettuce/lettuce-core/6.0.3.RELEASE/lettuce-core-6.0.3.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/BaiduNetdiskDownload/maven/maven_repository/io/lettuce/lettuce-core/6.0.3.RELEASE/lettuce-core-6.0.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

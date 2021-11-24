@@ -1,0 +1,12 @@
+hmily:
+  server:
+    configMode: zookeeper
+    appName: hmily-test
+#  如果server.configMode eq local 的时候才会读取到这里的配置信息.
+remote:
+  zookeeper:
+    serverList: 47.98.192.167:2181 #你的zookeeper服务地址，多个使用逗号分隔
+    fileExtension: yml #zookeeper上配置文件的格式（properties或者yml）二选一
+    path: /apache-zookeeper-3.7.0-bin/hmily/xiaoyu.yml  #zookeeper上配置文件的路径
+    update :  true #默认是false ，是否需要将本地的配置文件写到zookeeper
+    updateFileName: hmily.yml #update属性为true时候 ，配置文件名称，位于项目的 resource文件夹下的yaml格式

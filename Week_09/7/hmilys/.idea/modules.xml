@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hmily-bank2/bank2.iml" filepath="$PROJECT_DIR$/hmily-bank2/bank2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hmilys.iml" filepath="$PROJECT_DIR$/.idea/hmilys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-bank1/moods.iml" filepath="$PROJECT_DIR$/hmily-bank1/moods.iml" />
+    </modules>
+  </component>
+</project>

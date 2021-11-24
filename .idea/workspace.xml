@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="毕业总结">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/Apache Software Foundation/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\Apache Software Foundation\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mxY9L1wPLxdwExVwxb4oaiJhiL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week_15" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_15" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_13\3" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_12\3" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_11" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_09\3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_04\Sunday" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_07" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_01" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_01\untitled" />
+      <recent name="C:\Users\DELL\Desktop\作业仓库\Week_02" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="650a0c4d-6281-45e6-9eda-b117b44811f5" name="Default Changelist" comment="" />
+      <created>1610436556371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610436556371</updated>
+      <workItem from="1610436557821" duration="3644000" />
+      <workItem from="1611314876954" duration="1467000" />
+      <workItem from="1611381314161" duration="551000" />
+      <workItem from="1611485652986" duration="136000" />
+      <workItem from="1611485844389" duration="89000" />
+      <workItem from="1611749863706" duration="9000" />
+      <workItem from="1612010888011" duration="21000" />
+      <workItem from="1612020429104" duration="497000" />
+      <workItem from="1612334837156" duration="3534000" />
+      <workItem from="1612614541713" duration="607000" />
+      <workItem from="1612620461083" duration="3695000" />
+      <workItem from="1612672003642" duration="3577000" />
+      <workItem from="1613395692446" duration="1429000" />
+      <workItem from="1613836846433" duration="159000" />
+      <workItem from="1613837204950" duration="41000" />
+      <workItem from="1613891171001" duration="601000" />
+      <workItem from="1613908716086" duration="611000" />
+      <workItem from="1614431879237" duration="292000" />
+      <workItem from="1614436092362" duration="31000" />
+      <workItem from="1614766927615" duration="8000" />
+      <workItem from="1615188688023" duration="8000" />
+      <workItem from="1615189954021" duration="21000" />
+      <workItem from="1615558294678" duration="64000" />
+      <workItem from="1615858388028" duration="4182000" />
+      <workItem from="1616596722297" duration="551000" />
+      <workItem from="1616657440340" duration="6000" />
+      <workItem from="1616720816982" duration="171000" />
+      <workItem from="1619570009568" duration="128000" />
+      <workItem from="1620889684941" duration="168000" />
+      <workItem from="1620914534734" duration="1577000" />
+      <workItem from="1620916498044" duration="489000" />
+      <workItem from="1620955180978" duration="2632000" />
+      <workItem from="1620958179834" duration="898000" />
+      <workItem from="1620997738255" duration="1682000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一周作业提交">
+      <created>1610436627747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610436627747</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一周作业提交">
+      <created>1610437055973</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610437055973</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一周作业提交">
+      <created>1610441387687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610441387687</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第二周作业提交">
+      <created>1611381373832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611381373832</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第一周作业任务三修复">
+      <created>1611485772475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611485772475</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第一周作业任务三修复">
+      <created>1611485915695</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611485915695</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第三周作业">
+      <created>1612020473758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612020473758</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第四周作业">
+      <created>1612676401727</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612676401727</updated>
+    </task>
+    <task id="LOCAL-00009" summary="第四周作业">
+      <created>1612677551081</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612677551081</updated>
+    </task>
+    <task id="LOCAL-00010" summary="第四周作业">
+      <created>1613396617190</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613396617190</updated>
+    </task>
+    <task id="LOCAL-00011" summary="第五周作业">
+      <created>1613836991107</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613836991107</updated>
+    </task>
+    <task id="LOCAL-00012" summary="第六周作业必做作业的暂时提交">
+      <created>1614432150661</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614432150661</updated>
+    </task>
+    <task id="LOCAL-00013" summary="第五周作业 未实现自动配置和stater">
+      <created>1615859530424</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615859530424</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第五周作业 之前bean注入时，遗漏的xml文件">
+      <created>1615859587523</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615859587523</updated>
+    </task>
+    <task id="LOCAL-00015" summary="第五周的数据库设计">
+      <created>1616590312399</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616590312399</updated>
+    </task>
+    <task id="LOCAL-00016" summary="模拟插入100万数据">
+      <created>1616590329589</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616590329589</updated>
+    </task>
+    <task id="LOCAL-00017" summary="第四周并发">
+      <created>1616590536555</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616590536555</updated>
+    </task>
+    <task id="LOCAL-00018" summary="作业终极者">
+      <created>1620957220470</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1620957220470</updated>
+    </task>
+    <task id="LOCAL-00019" summary="作业终极者">
+      <created>1620958849833</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1620958849833</updated>
+    </task>
+    <task id="LOCAL-00020" summary="毕业总结">
+      <created>1621001688010</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1621001688011</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一周作业提交" />
+    <MESSAGE value="第二周作业提交" />
+    <MESSAGE value="第一周作业任务三修复" />
+    <MESSAGE value="第三周作业" />
+    <MESSAGE value="第四周作业" />
+    <MESSAGE value="第六周作业必做作业的暂时提交" />
+    <MESSAGE value="第五周作业" />
+    <MESSAGE value="第五周作业 未实现自动配置和stater" />
+    <MESSAGE value="第五周作业 之前bean注入时，遗漏的xml文件" />
+    <MESSAGE value="第五周的数据库设计" />
+    <MESSAGE value="模拟插入100万数据" />
+    <MESSAGE value="第四周并发" />
+    <MESSAGE value="作业终极者" />
+    <MESSAGE value="毕业总结" />
+    <option name="LAST_COMMIT_MESSAGE" value="毕业总结" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="506" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620915398712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1620915398712" />
+    <state x="633" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615858796942" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1620957234298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1620957234298" />
+    <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1620916983411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="102" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620916983411" />
+    <state x="757" y="240" key="RollbackChangesDialog" timestamp="1616588739915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616588739915" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1621001696126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621001696126" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616590543882" />
+    <state x="-15" y="23" key="new project wizard" timestamp="1612615147398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-15" y="23" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1612615147398" />
+  </component>
+</project>
